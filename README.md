@@ -14,6 +14,7 @@ Welcome to the Solr Mongo Importer project. This project provides MongoDb suppor
     * port     (*optional* - default: 27017)
     * username (*optional*)
     * password (*optional*)
+    * batchSize (*optional*)
 * MongoEntityProcessor - Use with the MongoDataSource to query a MongoDb collection
     * collection (**required**)
     * query (**required**)
